@@ -1,4 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm santosh kumbar</h1>
+
 <h3 align="center">Upskilled as an SDET through comprehensive training at Masai School, gaining hands-on experience in software testing, automation, and quality assurance</h3>
 
 <h1 align="center"><img src="https://blog.openreplay.com/images/testing-principles-levels-and-libraries/images/image1.gif" alt="description" width="300" height="200"></h1>
